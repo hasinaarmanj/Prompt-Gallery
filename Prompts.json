@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-12",
+  "prompts": [
+    {
+      "id": "1",
+      "title": "Young Man on Japanese Bicycle",
+      "prompt": "A portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is seated on a sleek modern Japanese bicycle while holding a contemporary iPhone. He is wearing a stylish gray and black Peshawari Kameez (Shalwar) with intricate detailing around the collar and cuffs. The background shows a vibrant Japanese urban street with soft daylight and subtle bokeh suggesting a bustling city environment. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
+      "imageUrl": "https://images.iimg.live/images/awesome-masterpiece-4745.webp",
+      "category": "Portrait",
+      "tags": ["portrait", "urban", "bicycle", "peshawari kameez", "cinematic"]
+    },
+    {
+      "id": "2",
+      "title": "Man Hugging Goat in Winter",
+      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a small fluffy goat while a majestic German Shepherd dog curiously sniffs the goat with visible breath in the cold air. The scene is set in a serene winter landscape covered with fresh snow and falling snowflakes. Snow-covered evergreen trees and distant hills appear in the background. Soft diffused natural lighting, cinematic color grading, 85mm lens look with f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, dramatic yet peaceful mood.",
+      "imageUrl": "https://images.iimg.live/images/majestic-work-7640.webp",
+      "category": "Animals",
+      "tags": ["winter", "goat", "german shepherd", "snow", "cinematic"]
+    },
+    {
+      "id": "3",
+      "title": "Boy Performing Tawaf Near Kaaba",
+      "prompt": "Photorealistic 4:3 selfie of the subject from the reference photo, characterized by a fair, smooth complexion, deep-set dark almond-shaped eyes with a calm, neutral gaze, and a distinct, straight nasal bridge. The face has a soft, youthful jawline and natural pink-toned lips. The hair is dark, dense, and styled with short, textured bangs across the forehead. The subject is performing Tawaf in Masjid al-Haram in Mecca, standing very close to the Kaaba while wearing traditional white Ihram clothing with realistic fabric textures and natural folds. The iconic golden door of the Kaaba is visible behind the subject. The scene includes a diverse, natural crowd of pilgrims in white garments, creating an authentic spiritual atmosphere. Bright, natural midday sunlight, soft shadows on the polished white marble floor and the black Kiswah of the Kaaba, clear blue sky, highly detailed mosque architecture, cinematic lighting, and sharp focus on the subject's specific facial features.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-vision-5094.webp",
+      "category": "Religious",
+      "tags": ["tawaf", "kaaba", "mecca", "pilgrimage", "ihram"]
+    },
+    {
+    "id": "4",
+    "title": "Supplication at the Maqam Ibrahim",
+    "prompt": "Photorealistic portrait of the subject from the reference photo, featuring a fair complexion, deep-set dark almond-shaped eyes, and a distinct straight nasal bridge. The subject is standing near the Maqam Ibrahim in the Masjid al-Haram, hands raised in sincere supplication. Wearing a white Ihram with visible cotton-weave texture. The golden cage of the Maqam and the Kaaba's black Kiswah are in the background. Soft morning light creates a serene atmosphere with natural skin tones and realistic fabric folds. 85mm lens, f/2.8, sharp focus on the facial features and expressive dark eyes.",
+    "imageUrl": "https://images.iimg.live/images/brilliant-memory-3309.webp",
+    "category": "Religious",
+    "tags": ["supplication", "maqam ibrahim", "mecca", "ihram", "spiritual"]
+  },
+  {
+    "id": "5",
+    "title": "Drinking Zamzam at the Holy Mosque",
+    "prompt": "Candid 4:3 shot of the subject from the reference photo, maintaining the exact youthful jawline, natural pink-toned lips, and short dark hair with textured bangs. The subject is drinking Zamzam water from a cup within the marble halls of the Masjid al-Haram. Wearing a white Ihram draped over the left shoulder. The background shows the bustling crowd of pilgrims and ornate white marble pillars. Bright, natural interior lighting with realistic reflections on the marble floor. High-detail rendering of the subject's calm, neutral expression.",
+    "imageUrl": "https://images.iimg.live/images/vibrant-scene-8813.webp",
+    "category": "Religious",
+    "tags": ["zamzam", "mecca", "ihram", "candid", "mosque"]
+  },
+  {
+    "id": "6",
+    "title": "Evening Prayer in the Prophet's Mosque",
+    "prompt": "Hyper-realistic image of the subject from the reference photo, characterized by a fair, smooth complexion and dark almond eyes, seated on the green carpets of the Rawdah in Medina. Wearing a crisp white thobe and a small white kufi cap. The subject's face is illuminated by the warm, golden glow of the mosque's ornate chandeliers. In the background, the intricate floral patterns of the marble pillars and the arches are visible. Peaceful atmosphere, shallow depth of field focusing on the subject's distinct facial structure.",
+    "imageUrl": "",
+    "category": "Religious",
+    "tags": ["medina", "rawdah", "thobe", "kufi", "prayer"]
+  },
+  {
+    "id": "7",
+    "title": "Walking Through the Umbrellas of Medina",
+    "prompt": "Cinematic wide shot of the subject from the reference photo walking through the courtyard of Al-Masjid an-Nabawi. The subject's dark, dense hair and neutral gaze are perfectly preserved. Wearing a traditional white thobe. The background features the massive, iconic white electronic umbrellas of the mosque against a clear blue sky. Bright daylight creates natural shadows and highlights on the subject's fair skin. Sharp focus on the face with a slight motion blur in the background crowd. 35mm lens look, 8k resolution.",
+    "imageUrl": "",
+    "category": "Religious",
+    "tags": ["medina", "umbrellas", "thobe", "walking", "cinematic"]
+  },
+  {
+    "id": "8",
+    "title": "Reciting Quran by the Kaaba",
+    "prompt": "Close-up portrait of the subject from the reference photo, focusing on the dark eyes and straight nasal bridge, as they look down at a small Quran held in their hands. Seated on the white marble of the Mataf with the Kaaba's black and gold Kiswah directly behind. Wearing a white Ihram. The lighting is soft and diffused, emphasizing the realistic skin texture and the fine details of the Quranic script. Deeply spiritual and quiet moment, sharp focus on the face and the book.",
+    "imageUrl": "",
+    "category": "Religious",
+    "tags": ["quran", "kaaba", "mecca", "ihram", "focus"]
+  },
+  {
+    "id": "9",
+    "title": "Morning Supplication at Mount Arafat",
+    "prompt": "A photorealistic 4:3 shot of the subject from the reference photo standing on the rocky terrain of Mount Arafat. Maintaining the exact facial features, fair complexion, and short dark hair with textured bangs. Wearing a white Ihram. The background shows the vast plain of Arafat filled with white tents and other pilgrims under the soft light of a hazy morning sun. Atmospheric depth, realistic dust particles in the air, sharp focus on the subject's calm and prayerful expression.",
+    "imageUrl": "p",
+    "category": "Religious",
+    "tags": ["arafat", "hajj", "ihram", "morning", "spiritual"]
+  },
+  {
+    "id": "10",
+    "title": "Touching the Kaaba's Kiswah",
+    "prompt": "A powerful close-up shot of the subject from the reference photo, with one hand gently touching the black silk and gold embroidery of the Kaaba's Kiswah. The subject's face is seen in profile, showing the distinct straight nasal bridge and youthful jawline. Wearing a white Ihram. The background is a soft blur of the golden door and the surrounding crowd. Intense, dramatic lighting highlighting the texture of the silk and the subject's fair skin. High dynamic range, cinematic quality.",
+    "imageUrl": "",
+    "category": "Religious",
+    "tags": ["kiswah", "kaaba", "mecca", "touch", "spiritual"]
+  },
+  {
+    "id": "11",
+    "title": "Resting in the Shade of Al-Haram",
+    "prompt": "Candid portrait of the subject from the reference photo resting against a white marble pillar inside the Masjid al-Haram. The subject's dark almond-shaped eyes and neutral expression are captured with 1:1 precision. Wearing a white Ihram. The scene is illuminated by cool, indirect light reflecting off the marble surfaces. The background shows a glimpse of the open courtyard and the clear blue sky. Peaceful and quiet atmosphere, realistic shadows and skin tones.",
+    "imageUrl": "",
+    "category": "Religious",
+    "tags": ["rest", "mecca", "ihram", "marble", "peaceful"]
+  },
+  {
+    "id": "12",
+    "title": "Performing Sa'i Between Safa and Marwa",
+    "prompt": "Action-oriented shot of the subject from the reference photo walking through the long, air-conditioned corridor between Safa and Marwa. Maintaining the exact facial structure and short dark hair. Wearing a white Ihram. The background features the modern architectural arches and the green lights indicating the running area. Bright, even lighting with realistic reflections on the polished floor. Sharp focus on the subject's face, conveying a sense of purpose and devotion.",
+    "imageUrl": "p",
+    "category": "Religious",
+    "tags": ["sai", "safa-marwa", "mecca", "ihram", "ritual"]
+  },
+  {
+    "id": "13",
+    "title": "Sunset Prayer at the Mosque Perimeter",
+    "prompt": "Wide cinematic shot of the subject from the reference photo standing on the outer balcony of the Masjid al-Haram at sunset. The subject's fair complexion and dark eyes are visible in the warm orange light. Wearing a white Ihram. The background features the towering minarets of the mosque and the clock tower against a vibrant purple and orange sky. Dramatic lighting, deep shadows, and a majestic spiritual atmosphere. 24mm wide-angle lens look, 8k resolution.",
+    "imageUrl": "",
+    "category": "Religious",
+    "tags": ["sunset", "mecca", "minarets", "ihram", "majestic"]
+  }
+  ]
+}
